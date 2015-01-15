@@ -4,4 +4,4 @@ fare una lista dei componenti corretti (BOL)
 
 Disegnare PCB (attenzione alla forma dentro la scatola)
 
-
+provo il pull nel branch-test
