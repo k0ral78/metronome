@@ -1,5 +1,7 @@
 Finire 2o tutorial Eagle 
 
+fare una lista dei componenti corretti (BOL)
+
 Disegnare PCB (attenzione alla forma dentro la scatola)
 
 
